@@ -20,7 +20,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXdzOHdyd3l6NWNuMTd1bnVxZnZ2cmdsNnFpcmNob3NmbGhkMHAyOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uwwHY7pIjT29i/giphy.gif"  />
+</div>
 
 ###
 
