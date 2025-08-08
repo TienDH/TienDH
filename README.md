@@ -20,6 +20,14 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
+
+###
+
+<p align="left">Hello World!!<br>I am TienDoHuu, an independent Unity game developer.<br>I’ve loved coding since I was a child.<br>I want to create fun, smooth, and joyful games.<br>I hope you’ll try out my upcoming indie games</p>
+
+###
+
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=itch.io&logo=itch&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="itch logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
@@ -29,16 +37,8 @@
 
 ###
 
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<p align="left">Hello World!!<br>I am TienDoHuu, an independent Unity game developer.<br>I’ve loved coding since I was a child.<br>I want to create fun, smooth, and joyful games.<br>I hope you’ll try out my upcoming indie games</p>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouz.maurodesouz&"  />
+</div>
 
 ###
