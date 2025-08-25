@@ -18,20 +18,9 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouz.maurodesouz&"  />
+<div align="top">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/source/f0eae157524839.59d932029fcf8.gif"  width="500" height="250"/>
+  <img src="https://blog.sciencemuseum.org.uk/wp-content/uploads/2017/10/Pacman.gif"  width="500" height="250"/>
 </div>
 
 ###
